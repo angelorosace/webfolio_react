@@ -1,3 +1,8 @@
+
+body {
+  background-color: #202023;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +40,76 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.app_btn {
+  font-weight: 500;
+  font-size: 16px;
+  
+  border-radius: 10px;
+  border: none;
+  padding: 0.7rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.portfolio_button_dark {
+  color:#1a202c;
+  background-color:#81e6d9;
+}
+
+.portfolio_button_light {
+  color:white;
+  background-color:#59c0b2;
+}
+
+.portfolio_button_dark:hover {
+    background-color: #3a9b8e;
+    transition: 500ms;
+    cursor:pointer;
+}
+
+.portfolio_button_light:hover {
+  background-color: #2e887c;
+  transition: 500ms;
+  cursor:pointer;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.accent_dark {
+  color:#ff63c3;
+}
+
+.accent_light {
+  color:#3d7aed;
+}
+
+.accent:hover {
+  transition: 400ms;
+  text-decoration: underline #ff63c3;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }

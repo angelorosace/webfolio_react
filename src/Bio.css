@@ -1,0 +1,29 @@
+.bio_container {
+    text-align: left;
+}
+
+
+.bio_title {
+    font-family: 'Roboto Slab';
+    text-decoration: underline #525252;
+    text-underline-offset: 6px;
+    text-decoration-thickness: 4px;
+}
+
+p {
+    text-align: justify;
+}
+
+.bio_subtitle {
+    font-weight: bold;
+}
+
+span {
+    margin-right: 1rem;
+}
+
+.bio_section {
+    margin-bottom: 1rem;
+    padding-left: 6.1em;
+    text-indent: -6.1em;
+}

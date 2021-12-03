@@ -1,0 +1,128 @@
+
+.breadcrumb_origin_dark {
+    position: relative;
+    display: inline-block;
+    padding: 0px 20px 0px 5px;
+    border-radius: 5px 0px 0px 5px;
+    color:white;
+    height: 24px;
+    background:#ff63c3;
+}
+
+.breadcrumb_origin_dark:after, .breadcrumb_origin_dark:before {
+	left: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: "";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.breadcrumb_origin_dark:after {
+	border-left-color: #ff63c3;
+	border-width: 13px;
+	margin-top: -13px;
+}
+.breadcrumb_origin_dark:before {
+	border-width: 19px;
+	margin-top: -19px;
+}
+
+.breadcrumb_dark {
+	position: relative;
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+	background: #ff63c375;
+    border-radius: 0px 0px 0px 0px;
+    color:white;
+    z-index: -1;
+    height: 24px;
+}
+
+.breadcrumb_dark:after, .breadcrumb_dark:before {
+	left: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: "";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.breadcrumb_dark:after {
+	border-left-color: #ff63c375;
+	border-width: 13px;
+	margin-top: -13px;
+}
+.breadcrumb_dark:before {
+	border-width: 19px;
+	margin-top: -19px;
+}
+
+
+.breadcrumb_origin_light {
+    position: relative;
+    display: inline-block;
+    padding: 0px 20px 0px 5px;
+    border-radius: 5px 0px 0px 5px;
+    color:rgb(63, 63, 63);
+    height: 24px;
+    background:#59c0b2;
+}
+
+
+.breadcrumb_origin_light:after, .breadcrumb_origin_light:before {
+	left: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: "";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.breadcrumb_origin_light:after {
+	border-left-color: #59c0b2;
+	border-width: 13px;
+	margin-top: -13px;
+}
+.breadcrumb_origin_light:before {
+	border-width: 19px;
+	margin-top: -19px;
+}
+
+.breadcrumb_light {
+	position: relative;
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+	background: #59c0b275;
+    border-radius: 0px 0px 0px 0px;
+    color:rgb(63, 63, 63);
+    z-index: -1;
+    height: 24px;
+}
+
+.breadcrumb_light:after, .breadcrumb_light:before {
+	left: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: "";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.breadcrumb_light:after {
+	border-left-color: #59c0b275;
+	border-width: 13px;
+	margin-top: -13px;
+}
+.breadcrumb_light:before {
+	border-width: 19px;
+	margin-top: -19px;
+}

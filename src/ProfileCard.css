@@ -1,0 +1,19 @@
+.card_container {
+    font-family:"Arial";
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.card_title {
+    font-family: "Roboto Slab";
+    text-align: left;
+}
+
+.card_subtitle {
+    text-align: left;
+}
+
+.card_photo {
+    width: 6.5rem;
+}
+

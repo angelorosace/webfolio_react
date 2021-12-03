@@ -1,0 +1,14 @@
+[
+    {
+        "id":0,
+        "title":"Master Thesis",
+        "content":"Lorem Ipsum",
+        "thumbnail":"antibody_post.png"
+    },
+    {
+        "id":1,
+        "title":"My first React App",
+        "content":"Lorem Ipsum",
+        "thumbnail":"react_post_thumbnail.png"
+    }
+]

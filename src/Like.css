@@ -1,0 +1,30 @@
+.like_container {
+    text-align: left;
+}
+
+
+.like_title {
+    font-family: 'Roboto Slab';
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    text-decoration-color: #525252;
+    text-decoration-thickness: 4px;
+}
+
+p {
+    text-align: justify;
+}
+
+.like_subtitle {
+    font-weight: bold;
+}
+
+span {
+    margin-right: 1rem;
+}
+
+.like_section {
+    margin-bottom: 1rem;
+    padding-left: 6.1em;
+    text-indent: -6.1em;
+}

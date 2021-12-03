@@ -1,0 +1,21 @@
+.description_container {
+    margin-top: 1rem;
+    text-align: left;
+}
+
+
+.description_title {
+    font-family: 'Roboto Slab';
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    text-decoration-color: #525252;
+    text-decoration-thickness: 4px;
+}
+
+p {
+    text-align: justify;
+}
+
+span {
+    margin-right: 1rem;
+}
