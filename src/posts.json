@@ -2,7 +2,10 @@
     {
         "id":0,
         "title":"My first React App",
-        "content":"<b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "Angelo Rosace",
+        "date": "3/12/2021",
+        "content":
+            "<p>Not actually the first though. Many short-lived projects were started in the process of getting this one online. I started this portfolio project in summer as an idea for getting my freelancer-developer career started. Meanwhile I was trying to juggling the wrap up of my pretty much still not wrapped up first research experience, the start of my phd and some side jobs. So maybe not the best time to start yet another side project, but I was determined to bring it home.</p><p>The idea and the motivation for developing this website came from some jobs I was doing as a web-developer for some friends of a friend (shout out to Zach for being my unpaid PR).</p><p>Today as I am writing this post I feel like I can finally call the end of this project and the beginning of the hunt for people who need a website made for them. Hopefully I manage to find a lot of them, sure thing is I'll keep you posted.</p><p>Peace out!</p>",
         "thumbnail":"react_post_thumbnail.png"
     }
 ]

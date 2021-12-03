@@ -24,6 +24,7 @@ const SinglePost = (props) => {
                         <Breadcrumb theme={props.theme} text={data.title} />
                     </div>
                     <div className="content">
+                        <p className={"date_and_author_" + props.theme.mode}>{data.date} - {data.author}</p>
                         <p dangerouslySetInnerHTML={{__html: data.content}}></p>
                     </div>
                     

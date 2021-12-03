@@ -1,14 +1,10 @@
 [
     {
         "id":0,
-        "title":"Master Thesis",
-        "content":"Lorem Ipsum",
+        "title":"Research in Cambridge",
+        "author":"Angelo Rosace",
+        "date":"3/12/2021",
+        "content":"<p><strong>DISCLAIMER: The reaserch is not published yet so you have to read a post about the experience of it and not the science behind it</strong></p><p>I took on the research project in the context of my Msc thesis. Although I have to skip the technicalities of my work I can still talk to you about the overall experience.</p><p>First thing first, COVID-19 sucks, and writing this now that there is a new scary variant on the horizon makes the feeling even stronger. Due to the pandemic I wasn't able to actually go work in Cambridge (UK) so I had to work remotely from Barcelona (I am currently living here). \"But Angelo Barcelona isn't acutally that bad to be stuck in\"...ok Susan, I am sorry, I'll shove my first world problems up my ass. Well, now that we got that out of the way... The experience wasn't actually that bad.</p><p>I got to interact and work with extremely intelligent people, bring a valuable contribution to science, save some bucks by not living in the UK and of course go live with my girlfirend (Hi Mandy!).</p><p>Day after day I sat at my table and burnt my eyes to the screen for 8 hours straight but at least I was very satisfied with the work I was doing. While the satisfaction was high the stress levels were too and that definitely took a toll on my eye sight and on my hair line. I'll see you in another life dear and already precarious hair line.</p><p>Jokes aside, as I said, I was very satisfied of my work and this was actually the reason why I decided to apply for and starting a PhD in Barcelona. The research world was very new to me and unexpectedly fun but don't get me wrong the stress is definitely something I would like to take out from the equation.</p><p> The fact that this experience came in the middle of a pandemic made me concentrate more on it and also to rearrange my priorities.</p><p>I was never that kind of guy who is easily persuaded to leave important stuff on the side in order to spend more time out with friend and so on, but the obbligation to not have any social interaction (in person) made me think about the value of the relationships I had built until the pandemic and about which one of those were actually worth mantaining. Don't worry I didn't turn into the Grinch and I don't want to see the world burn, is just that I know I have a finite amount of energy in me and I cannot waste some of it in keeping alive relationships that take more from me than what they are actually giving back. Sometimes less is more especially when more doesn't rime with mental peace.</p><p>Sooooo take home messages: <ul><li>I am definitelly not the smartes person in the room, and thank god I am not</li><li>I am balding, damn you southern-italian genetics</li><li>I am happy with my life trajectory</li><li>I am happy life keeps on teaching me lessons</li><li>I am glad I have the friends I have</li></ul></p><p>Peace out!</p>",
         "thumbnail":"antibody_post.png"
-    },
-    {
-        "id":1,
-        "title":"My first React App",
-        "content":"Lorem Ipsum",
-        "thumbnail":"react_post_thumbnail.png"
     }
 ]

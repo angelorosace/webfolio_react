@@ -16,3 +16,13 @@
 .content {
     margin-bottom: 40px;
 }
+
+.date_and_author_dark {
+    color: #ff63c3;
+    font-size: 13px;
+}
+
+.date_and_author_light {
+    color: #36988b;
+    font-size: 13px;
+}
